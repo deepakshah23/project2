@@ -1,4 +1,4 @@
-# new project
+# New project
 
 This project was created from local System.
-Created by Deepak Shah
+Created by Deepak Shah.
